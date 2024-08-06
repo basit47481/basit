@@ -1,0 +1,4 @@
+a:4:{s:8:"template";s:7:"rezilla";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:8:"mainmenu";i:41;}s:18:"custom_css_post_id";i:1412;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1675749377;s:4:"data";a:6:{s:19:"wp_inactive_widgets";a:4:{i:0;s:26:"rezilla_blog_post_widget-3";i:1;s:10:"nav_menu-3";i:2;s:6:"meta-2";i:3;s:7:"block-6";}s:7:"sidebar";a:4:{i:0;s:7:"block-8";i:1;s:26:"rezilla_blog_post_widget-5";i:2;s:7:"block-4";i:3;s:6:"meta-3";}s:8:"footer-1";a:1:{i:0;s:29:"rezilla_company_info_widget-3";}s:8:"footer-2";a:1:{i:0;s:10:"nav_menu-2";}s:8:"footer-3";a:1:{i:0;s:26:"rezilla_blog_post_widget-2";}s:8:"footer-4";a:1:{i:0;s:29:"rezilla_contact_info_widget-2";}}}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:79:".post-details.post-38 .post-img img {
+    width: 100%;
+    object-fit: cover;
+}";}
